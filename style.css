@@ -5,8 +5,8 @@ body {
 }
 h1 {
     text-align: center;
-    background-color: #B4F0EF;
-    font-family: Times New Roman, calibri;
+    background-color: #f0b9cc;
+    font-family:Monaco;
     border: 2px dotted blue;
     padding: 10px 15px;
     width: 250px;
@@ -15,7 +15,7 @@ h1 {
 
 p {
     text-align: justify;
-    background-color: hsl(230, 50%, 50%);
+    background-color: hsl(230, 42%, 64%);
     font-style: italic;
     padding: 20px;
     border: 3px solid black;
