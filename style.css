@@ -6,7 +6,7 @@ body {
 h1 {
     text-align: center;
     background-color: #f0b9cc;
-    font-family:Monaco;
+    font-family:"Lucida Console", "Courier New", monospace;
     border: 2px dotted blue;
     padding: 10px 15px;
     width: 250px;
